@@ -19,7 +19,7 @@ Regression and classification models analyzing violent crime and pedestrian-vehi
 
 ### Charlotte Gas Price Forecasting & Cloud-Based Analytics
 Cloud-based data pipeline integrating historical AAA gasoline prices to forecast regional price trends across the Charlotte metropolitan area. Developed a regression model using 102 weeks of historical data to generate 52-week forecasts, with interactive geospatial visualizations.  
-**Technologies & Techniques:** Python, AWS S3, REST APIs, linear regression, ArcGIS, data engineering.
+**Techniques:** Python, AWS S3, REST APIs, linear regression, ArcGIS, data engineering.
 
 ### Income & Risk Classification Modeling
 Comparative evaluation of classification models to predict income level and credit risk outcomes.  
